@@ -1,0 +1,7 @@
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\Exercicios\SalaDeChat\ChatClient\bin\Debug\ChatClient.exe
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\Exercicios\SalaDeChat\ChatClient\bin\Debug\ChatClient.pdb
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\Exercicios\SalaDeChat\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\Exercicios\SalaDeChat\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\Exercicios\SalaDeChat\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\Exercicios\SalaDeChat\ChatClient\bin\Debug\ChatPartilhaWCF.dll
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\Exercicios\SalaDeChat\ChatClient\bin\Debug\ChatPartilhaWCF.pdb

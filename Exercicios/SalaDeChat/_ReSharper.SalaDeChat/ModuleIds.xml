@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="F02DB2A6-6F22-48DA-BF77-D58DD45F6661" ModuleId="SalaDeChat" />
+  <Module PersistentId="A1CDAB83-08E7-4C4C-9C72-5D156756DDE9" ModuleId="ChatServer" />
+  <Module PersistentId="A18A67DE-8EFE-4F8B-9810-6377E5F10117" ModuleId="ChatServer_1" />
+  <Module PersistentId="FE6D483A-81E2-4845-9909-41CCFA378EBD" ModuleId="ChatClient" />
+  <Module PersistentId="52015876-C845-4F7D-9859-0DC726AA5D05" ModuleId="ChatPartilhaWCF" />
+</Modules>

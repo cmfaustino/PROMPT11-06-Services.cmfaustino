@@ -1,0 +1,5 @@
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\GitHubSoap\GitHubBrokerClassLib\bin\Debug\GitHubBrokerClassLib.dll
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\GitHubSoap\GitHubBrokerClassLib\bin\Debug\GitHubBrokerClassLib.pdb
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\GitHubSoap\GitHubBrokerClassLib\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\GitHubSoap\GitHubBrokerClassLib\obj\Debug\GitHubBrokerClassLib.dll
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\GitHubSoap\GitHubBrokerClassLib\obj\Debug\GitHubBrokerClassLib.pdb

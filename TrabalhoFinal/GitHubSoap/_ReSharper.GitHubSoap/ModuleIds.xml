@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="5037C9EB-E3B9-4244-99DA-30C852926C2D" ModuleId="GitHubSoap" />
+  <Module PersistentId="1895424E-AE6B-4781-B0E5-6F97B964A08A" ModuleId="GitHubBrokerClassLib" />
+</Modules>

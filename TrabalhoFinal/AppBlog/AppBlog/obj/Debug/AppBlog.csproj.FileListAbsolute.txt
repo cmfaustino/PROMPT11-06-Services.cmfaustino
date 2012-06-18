@@ -1,0 +1,7 @@
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\AppBlog\AppBlog\bin\AppBlog.dll
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\AppBlog\AppBlog\bin\AppBlog.pdb
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\AppBlog\AppBlog\bin\EntityFramework.dll
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\AppBlog\AppBlog\bin\EntityFramework.xml
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\AppBlog\AppBlog\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\AppBlog\AppBlog\obj\Debug\AppBlog.dll
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\TrabalhoFinal\AppBlog\AppBlog\obj\Debug\AppBlog.pdb

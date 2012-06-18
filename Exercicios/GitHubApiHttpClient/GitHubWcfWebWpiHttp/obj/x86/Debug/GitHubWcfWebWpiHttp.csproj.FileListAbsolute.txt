@@ -1,0 +1,1 @@
+C:\z_PROMPT\PROMPT\uc06\repos\PROMPT11-06-Services.cmfaustino\Exercicios\GitHubApiHttpClient\GitHubWcfWebWpiHttp\bin\Debug\GitHubWcfWebWpiHttp.exe.config

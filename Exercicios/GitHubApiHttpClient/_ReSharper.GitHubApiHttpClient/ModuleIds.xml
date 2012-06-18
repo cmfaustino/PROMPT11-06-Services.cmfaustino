@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="EC5308E2-A8D6-4422-9928-9E55461341E6" ModuleId="GitHubApiHttpClient" />
+  <Module PersistentId="8E565B76-3556-40E7-B7F8-68C1556FF37C" ModuleId="GitHubWcfWebWpiHttp" />
+</Modules>

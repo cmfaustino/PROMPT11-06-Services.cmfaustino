@@ -1,0 +1,107 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5037C9EB-E3B9-4244-99DA-30C852926C2D/f:Program.cs" caret="515" fromTop="13" />
+      <File id="5037C9EB-E3B9-4244-99DA-30C852926C2D/f:GitHubClientRest.cs" caret="624" fromTop="18" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesFilter.cs" caret="252" fromTop="11" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesDirection.cs" caret="187" fromTop="9" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesSort.cs" caret="0" fromTop="0" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesState.cs" caret="0" fromTop="0" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesLabels.cs" caret="0" fromTop="0" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesSince.cs" caret="156" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5037C9EB-E3B9-4244-99DA-30C852926C2D/f:Program.cs" caret="179" fromTop="3" />
+      <File id="5037C9EB-E3B9-4244-99DA-30C852926C2D/f:Program.cs" caret="385" fromTop="7" />
+      <File id="5037C9EB-E3B9-4244-99DA-30C852926C2D/f:Program.cs" caret="1075" fromTop="18" />
+      <File id="5037C9EB-E3B9-4244-99DA-30C852926C2D/f:GitHubClientRest.cs" caret="0" fromTop="0" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesState.cs" caret="92" fromTop="5" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesFilter.cs" caret="92" fromTop="5" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesLabels.cs" caret="170" fromTop="7" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesLabels.cs" caret="224" fromTop="9" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesLabels.cs" caret="380" fromTop="15" />
+      <File id="5037C9EB-E3B9-4244-99DA-30C852926C2D/f:GitHubClientRest.cs" caret="201" fromTop="7" />
+      <File id="5037C9EB-E3B9-4244-99DA-30C852926C2D/f:GitHubClientRest.cs" caret="597" fromTop="16" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesLabels.cs" caret="269" fromTop="11" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesState.cs" caret="183" fromTop="9" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesSort.cs" caret="223" fromTop="10" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesFilter.cs" caret="252" fromTop="11" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesDirection.cs" caret="187" fromTop="9" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesSince.cs" caret="469" fromTop="13" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesSince.cs" caret="469" fromTop="15" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesSince.cs" caret="517" fromTop="13" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesSince.cs" caret="549" fromTop="13" />
+      <File id="1895424E-AE6B-4781-B0E5-6F97B964A08A/f:IssuesSince.cs" caret="156" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="protected" priority="31" />
+      <Item value="enum" priority="123" />
+      <Item value="public" priority="251" />
+      <Item value="class" priority="61" />
+      <Item value="List" priority="63" />
+      <Item value="string" priority="191" />
+      <Item value="char" priority="31" />
+      <Item value="return" priority="63" />
+      <Item value="this" priority="95" />
+      <Item value="System" priority="31" />
+      <Item value="Text" priority="26" />
+      <Item value="x" priority="31" />
+      <Item value="y" priority="31" />
+      <Item value="_separator" priority="31" />
+      <Item value="struct" priority="30" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="Time" priority="65" />
+      <Item value="using" priority="61" />
+      <Item value="GitHubSoap" priority="61" />
+      <Item value="IssuesFilter`0" priority="31" />
+      <Item value="filter" priority="32" />
+      <Item value="IssuesState`0" priority="31" />
+      <Item value="state" priority="32" />
+      <Item value="IssuesLabels`0" priority="31" />
+      <Item value="labels" priority="32" />
+      <Item value="IssuesSort`0" priority="31" />
+      <Item value="IssuesDirection`0" priority="31" />
+      <Item value="issuesDirection" priority="32" />
+      <Item value="issues" priority="65" />
+      <Item value="issuesSort" priority="32" />
+      <Item value="issuesFilter" priority="32" />
+      <Item value="issuesState" priority="32" />
+      <Item value="issuesLabels" priority="32" />
+      <Item value="IssuesSince`0" priority="31" />
+      <Item value="issuesSince" priority="32" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GitHubBrokerClassLib.IssuesLabels">
+      <Item value="Union`1" priority="26" />
+      <Item value="ToArray`0" priority="26" />
+      <Item value="Aggregate`1" priority="26" />
+      <Item value="Join`4" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GitHubBrokerClassLib.IssuesSince">
+      <Item value="TimeStamp" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="GetDateTimeFormats`0" priority="26" />
+      <Item value="ToUniversalTime`0" priority="80" />
+      <Item value="ToString`0" priority="134" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

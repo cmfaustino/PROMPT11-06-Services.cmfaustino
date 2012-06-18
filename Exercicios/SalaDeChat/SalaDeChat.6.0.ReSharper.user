@@ -1,0 +1,116 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:ChatUser.cs" caret="0" fromTop="0" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatClientContract.cs" caret="0" fromTop="0" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatServerContract.cs" caret="0" fromTop="0" />
+      <File id="FE6D483A-81E2-4845-9909-41CCFA378EBD/f:Program.cs" caret="0" fromTop="0" />
+      <File id="FE6D483A-81E2-4845-9909-41CCFA378EBD/f:ChatClient.cs" caret="395" fromTop="9" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:Program.cs" caret="0" fromTop="0" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:ChatServer.cs" caret="1300" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatServerContract.cs" caret="236" fromTop="9" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatServerContract.cs" caret="168" fromTop="13" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatServerContract.cs" caret="307" fromTop="11" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatServerContract.cs" caret="307" fromTop="11" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatClientContract.cs" caret="132" fromTop="5" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatClientContract.cs" caret="332" fromTop="15" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:ChatServer.cs" caret="132" fromTop="5" />
+      <File id="FE6D483A-81E2-4845-9909-41CCFA378EBD/f:ChatClient.cs" caret="500" fromTop="15" />
+      <File id="FE6D483A-81E2-4845-9909-41CCFA378EBD/f:ChatClient.cs" caret="387" fromTop="15" />
+      <File id="FE6D483A-81E2-4845-9909-41CCFA378EBD/f:ChatClient.cs" caret="283" fromTop="11" />
+      <File id="FE6D483A-81E2-4845-9909-41CCFA378EBD/f:ChatClient.cs" caret="185" fromTop="9" />
+      <File id="FE6D483A-81E2-4845-9909-41CCFA378EBD/f:ChatClient.cs" caret="92" fromTop="4" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatClientContract.cs" caret="278" fromTop="11" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:IChatServerContract.cs" caret="449" fromTop="14" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:ChatServer.cs" caret="757" fromTop="11" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:ChatServer.cs" caret="667" fromTop="7" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:ChatServer.cs" caret="940" fromTop="5" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:ChatServer.cs" caret="1210" fromTop="10" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:ChatServer.cs" caret="1440" fromTop="15" />
+      <File id="52015876-C845-4F7D-9859-0DC726AA5D05/f:ChatUser.cs" caret="194" fromTop="9" />
+      <File id="A18A67DE-8EFE-4F8B-9810-6377E5F10117/f:ChatServer.cs" caret="390" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="using" priority="92" />
+      <Item value="interface" priority="61" />
+      <Item value="void" priority="31" />
+      <Item value="chat" priority="32" />
+      <Item value="string" priority="351" />
+      <Item value="ChatUser`0" priority="127" />
+      <Item value="chatUser" priority="129" />
+      <Item value="ServiceBehavior" priority="31" />
+      <Item value="InstanceContextMode" priority="31" />
+      <Item value="InstanceContextMode`0" priority="31" />
+      <Item value="ChatPartilhaWCF" priority="30" />
+      <Item value="IChatClientContract`0" priority="159" />
+      <Item value="return" priority="63" />
+      <Item value="public" priority="63" />
+      <Item value="ChatClient`0" priority="31" />
+      <Item value="new" priority="63" />
+      <Item value="ChatUser" priority="28" />
+      <Item value="IsOneWay" priority="127" />
+      <Item value="true" priority="127" />
+      <Item value="private" priority="95" />
+      <Item value="readonly" priority="31" />
+      <Item value="Dictionary" priority="63" />
+      <Item value="List" priority="31" />
+      <Item value="var" priority="95" />
+      <Item value="ctx" priority="64" />
+      <Item value="OperationContext`0" priority="31" />
+      <Item value="cbc" priority="31" />
+      <Item value="cb" priority="95" />
+      <Item value="if" priority="63" />
+      <Item value="_listaDeClientes" priority="63" />
+      <Item value="cbid" priority="159" />
+      <Item value="Console`0" priority="31" />
+      <Item value="bool" priority="31" />
+      <Item value="out" priority="191" />
+      <Item value="IsValidClient`0" priority="31" />
+      <Item value="Dictionary&lt;string,IChatClientContract&gt;" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.InstanceContextMode">
+      <Item value="Single" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChatPartilhaWCF.ChatUser">
+      <Item value="Nome" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.OperationContext">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.OperationContext">
+      <Item value="GetCallbackChannel`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChatPartilhaWCF.IChatClientContract">
+      <Item value="ServerIdentification`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="26" />
+      <Item value="Add`0" priority="26" />
+      <Item value="Remove`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

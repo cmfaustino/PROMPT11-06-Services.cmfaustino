@@ -1,0 +1,143 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="3158" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="70" fromTop="3" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="974" fromTop="9" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="2329" fromTop="8" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="852" fromTop="7" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="2054" fromTop="17" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="4177" fromTop="20" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="1713" fromTop="4" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="519" fromTop="2" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="3039" fromTop="13" />
+      <File id="B9F02551-9204-4D1E-BCFE-9BD2C2F4A399/f:Program.cs" caret="3158" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="using" priority="94" />
+      <Item value="Raven" priority="30" />
+      <Item value="Abstractions" priority="26" />
+      <Item value="Client" priority="26" />
+      <Item value="Document" priority="26" />
+      <Item value="DocumentStore`0" priority="31" />
+      <Item value="var" priority="223" />
+      <Item value="new" priority="321" />
+      <Item value="DocumentStore" priority="28" />
+      <Item value="Url" priority="31" />
+      <Item value="store" priority="63" />
+      <Item value="session" priority="255" />
+      <Item value="DateTimeOffset`0" priority="31" />
+      <Item value="List" priority="86" />
+      <Item value="object" priority="63" />
+      <Item value="from" priority="159" />
+      <Item value="select" priority="95" />
+      <Item value="post" priority="255" />
+      <Item value="foreach" priority="63" />
+      <Item value="dynamic" priority="63" />
+      <Item value="Console`0" priority="223" />
+      <Item value="comment" priority="31" />
+      <Item value="PostComments`0" priority="63" />
+      <Item value="comments" priority="96" />
+      <Item value="true" priority="32" />
+      <Item value="string" priority="63" />
+      <Item value="where" priority="31" />
+      <Item value="Post`0" priority="31" />
+      <Item value="posts" priority="124" />
+      <Item value="Comments" priority="26" />
+      <Item value="p" priority="31" />
+      <Item value="group" priority="63" />
+      <Item value="by" priority="63" />
+      <Item value="into" priority="63" />
+      <Item value="g" priority="127" />
+      <Item value="public" priority="158" />
+      <Item value="class" priority="62" />
+      <Item value="AbstractDocumentQuery" priority="63" />
+      <Item value="get" priority="32" />
+      <Item value="set" priority="32" />
+      <Item value="int" priority="31" />
+      <Item value="TagsIndex`0" priority="95" />
+      <Item value="Map" priority="31" />
+      <Item value="tag" priority="31" />
+      <Item value="Reduce" priority="31" />
+      <Item value="results" priority="31" />
+      <Item value="r" priority="63" />
+      <Item value="x" priority="63" />
+      <Item value="IndexCreation`0" priority="31" />
+      <Item value="typeof" priority="31" />
+      <Item value="Program`0" priority="31" />
+      <Item value="tags" priority="31" />
+      <Item value="out" priority="31" />
+      <Item value="statistics" priority="32" />
+      <Item value="stats" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.Document.DocumentStore">
+      <Item value="Initialize`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentStore">
+      <Item value="OpenSession`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentSession">
+      <Item value="Store`0" priority="53" />
+      <Item value="SaveChanges`0" priority="26" />
+      <Item value="Query`1" priority="80" />
+      <Item value="Load`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTimeOffset">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IGrouping`2">
+      <Item value="Key" priority="26" />
+      <Item value="Sum`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RavenDbDemo.TagsIndex">
+      <Item value="ReduceResult`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Raven.Client.Indexes.IndexCreation">
+      <Item value="CreateIndexes`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.Linq.IRavenQueryable`1">
+      <Item value="First`1" priority="26" />
+      <Item value="Customize`0" priority="53" />
+      <Item value="Statistics`0" priority="27" />
+      <Item value="ToArray`1" priority="26" />
+      <Item value="ToList`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDbDemo.TagsIndex+ReduceResult">
+      <Item value="Tag" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.Linq.RavenQueryStatistics">
+      <Item value="IsStale" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentQueryCustomization">
+      <Item value="WaitForNonStaleResults`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

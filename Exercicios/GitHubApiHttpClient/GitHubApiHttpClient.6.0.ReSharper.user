@@ -1,0 +1,93 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EC5308E2-A8D6-4422-9928-9E55461341E6/f:Program.cs" caret="572" fromTop="9" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="3142" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="EC5308E2-A8D6-4422-9928-9E55461341E6/f:Program.cs" caret="742" fromTop="14" />
+      <File id="EC5308E2-A8D6-4422-9928-9E55461341E6/f:Program.cs" caret="740" fromTop="6" />
+      <File id="EC5308E2-A8D6-4422-9928-9E55461341E6/f:Program.cs" caret="740" fromTop="7" />
+      <File id="EC5308E2-A8D6-4422-9928-9E55461341E6/f:Program.cs" caret="740" fromTop="6" />
+      <File id="EC5308E2-A8D6-4422-9928-9E55461341E6/f:Program.cs" caret="740" fromTop="7" />
+      <File id="EC5308E2-A8D6-4422-9928-9E55461341E6/f:Program.cs" caret="424" fromTop="7" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="767" fromTop="10" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="3121" fromTop="19" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="767" fromTop="2" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="733" fromTop="7" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="788" fromTop="1" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="365" fromTop="10" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="534" fromTop="11" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="696" fromTop="12" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="1405" fromTop="7" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="1034" fromTop="7" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="1789" fromTop="8" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="1537" fromTop="8" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="2231" fromTop="20" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="2488" fromTop="14" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="2958" fromTop="14" />
+      <File id="8E565B76-3556-40E7-B7F8-68C1556FF37C/f:Program.cs" caret="1412" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Console`0" priority="31" />
+      <Item value="class" priority="61" />
+      <Item value="protected" priority="95" />
+      <Item value="System" priority="31" />
+      <Item value="ServiceModel" priority="26" />
+      <Item value="Web" priority="26" />
+      <Item value="HttpResponseMessage`0" priority="31" />
+      <Item value="var" priority="31" />
+      <Item value="client" priority="95" />
+      <Item value="config" priority="31" />
+      <Item value="res" priority="63" />
+      <Item value="return" priority="31" />
+      <Item value="override" priority="63" />
+      <Item value="public" priority="31" />
+      <Item value="Formatador`0" priority="31" />
+      <Item value="this" priority="63" />
+      <Item value="while" priority="31" />
+      <Item value="new" priority="31" />
+      <Item value="MediaTypeHeaderValue" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Http.HttpClient">
+      <Item value="GetAsync`0" priority="26" />
+      <Item value="DefaultRequestHeaders" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Http.Headers.HttpRequestHeaders">
+      <Item value="Accept" priority="53" />
+      <Item value="Add`0" priority="53" />
+      <Item value="Remove`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GitHubWcfWebWpiHttp.Formatador">
+      <Item value="SupportedMediaTypes" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.Collection`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="Count`1" priority="26" />
+      <Item value="Count" priority="26" />
+      <Item value="Clear`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
